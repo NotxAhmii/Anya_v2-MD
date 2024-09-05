@@ -9,7 +9,7 @@ module.exports = {
      * bot details and parameters
      */
     botname: process.env.BotName || "NOTxAHMII HP170",
-    footer: process.env.Footer || "© ｡⤹♡ notxahmii𓆃",
+    footer: process.env.Footer || "©notxahmii",
     prefa: process.env.Prefix || "-",
     themeemoji: process.env.ThemeEmoji || "🎐",
 
